@@ -1,0 +1,11 @@
+@charset "ISO-8859-1";
+
+form{
+	display: flex;
+	flex-direction: column;
+	gap: 20px;
+}
+
+.enviar{
+	width: 50px;
+}
